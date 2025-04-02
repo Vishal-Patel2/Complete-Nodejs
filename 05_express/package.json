@@ -12,7 +12,7 @@
     "express",
     "tea"
   ],
-  "author": "hitesh choudhary",
+  "author": "Vishal Patel",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2"
