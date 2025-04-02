@@ -13,7 +13,7 @@ app.get("/ice-tea", (req, res) => {
 });
 
 app.get("/twitter", (req, res) => {
-  res.send("Vishal dotcom");
+  res.send("Vishaldotcom");
 });
 */
 
